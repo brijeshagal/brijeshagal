@@ -1,6 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working on casting tech experiences.<br>👯 I’m looking to collaborate on blockchain and cryptography projects.
 
+## ➕ Github Highlights:
+![image](https://github.com/user-attachments/assets/09217c9f-4dc0-44e2-b3d6-cdd376d2c9b6)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brijesh-agal/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/brijeshagal) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCmsnt-0msjIJPtRfWaYX77Q)
